@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+}
+
+h1 {
+  padding: 40px 0;
+}
+
+h2 {
+  padding-bottom: 30px;
+}
+
+nav {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.heading{
+  text-align: center;
+  background-color: blue;
+}
+
+li {
+  list-style: none;
+  display:inline-block;
+  margin: 0 70px;
+}
+
+p {
+  margin: auto;
+}
